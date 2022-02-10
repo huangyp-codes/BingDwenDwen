@@ -4,7 +4,7 @@ turtle.title('BingDwenDwen')
 
 turtle.speed(10.5)  # 速度
 
-
+# 左手
 turtle.penup()
 turtle.goto(177, 112)
 turtle.pencolor("lightgray")
@@ -17,7 +17,7 @@ turtle.circle(-45, 200)
 turtle.circle(-300, 23)
 turtle.end_fill()
 
-
+# 左手内
 turtle.penup()
 turtle.goto(182, 95)
 turtle.pencolor("black")
