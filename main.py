@@ -1,6 +1,6 @@
 import turtle
 
-turtle.title('BingDwenDwen（By: Yipo Huang）')
+turtle.title('BingDwenDwen')
 
 turtle.speed(10.5)  # 速度
 
